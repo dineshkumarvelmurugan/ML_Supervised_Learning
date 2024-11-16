@@ -26,21 +26,21 @@ Decision Tree	77.17% ,
 Random Forest	89.49% , 
 Support Vector Machine	85.87%
 # 📁 Project Workflow
-Data Preprocessing
-Cleaning, handling missing values, and normalizing the data.
-Exploratory Data Analysis (EDA)
-Visualized data to understand feature relationships.
-Feature Selection
-Selected relevant features for building predictive models.
-Model Training and Evaluation
-Applied classification and regression algorithms.
-Evaluated models using accuracy and confusion matrices.
-Model Comparison
-Compared the performance of all algorithms to identify the best one.
+Data Preprocessing:
+  Cleaning, handling missing values, and normalizing the data.
+Exploratory Data Analysis (EDA):
+  Visualized data to understand feature relationships.
+Feature Selection:
+  Selected relevant features for building predictive models.
+Model Training and Evaluation:
+  Applied classification and regression algorithms.
+  Evaluated models using accuracy and confusion matrices.
+Model Comparison:
+  Compared the performance of all algorithms to identify the best one.
 # 🔑 Key Findings
-Random Forest achieved the highest accuracy (89.49%) among classifiers.
-Naïve Bayes followed closely with an accuracy of 87.32%.
-Decision Trees performed comparatively lower (77.17%), highlighting the benefit of ensemble methods like Random Forest.
+  * Random Forest achieved the highest accuracy (89.49%) among classifiers.
+  * Naïve Bayes followed closely with an accuracy of 87.32%.
+  * Decision Trees performed comparatively lower (77.17%), highlighting the benefit of ensemble methods like Random Forest.
 # 🛠 Tools and Technologies
 Programming Language: Python
 Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
