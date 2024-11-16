@@ -7,23 +7,23 @@ Dataset Name: Heart Failure Prediction
 The dataset consists of patient health attributes used as features for prediction. The target variable indicates the likelihood of heart failure.
 
 # 📊 Algorithms Applied
-Classification Algorithms
-K-Nearest Neighbors (kNN)
-Naïve Bayes
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-Regression Algorithms
-Linear Regression
-Multiple Regression
-Polynomial Regression
-Logistic Regression
+Classification Algorithms : 
+K-Nearest Neighbors (kNN) ,
+Naïve Bayes ,
+Decision Tree ,
+Random Forest ,
+Support Vector Machine (SVM) ,
+Regression Algorithms :
+Linear Regression , 
+Multiple Regression , 
+Polynomial Regression , 
+Logistic Regression 
 # 🎯 Accuracy Results
-Classifier	Accuracy
-K-Nearest Neighbor	85.87%
-Naïve Bayes	87.32%
-Decision Tree	77.17%
-Random Forest	89.49%
+Classifier	Accuracy:
+K-Nearest Neighbor 85.87% ,
+Naïve Bayes	87.32% ,
+Decision Tree	77.17% ,
+Random Forest	89.49% , 
 Support Vector Machine	85.87%
 # 📁 Project Workflow
 Data Preprocessing
