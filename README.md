@@ -1,12 +1,12 @@
-Heart Failure Prediction
-🏥 Project Overview
+# Heart Failure Prediction
+   🏥 Project Overview
 This project predicts heart failure risk using supervised learning algorithms. Patient health data is analyzed through various classification and regression models to evaluate their prediction performance.
 
-📂 Dataset
+# 📂 Dataset
 Dataset Name: Heart Failure Prediction
 The dataset consists of patient health attributes used as features for prediction. The target variable indicates the likelihood of heart failure.
 
-📊 Algorithms Applied
+# 📊 Algorithms Applied
 Classification Algorithms
 K-Nearest Neighbors (kNN)
 Naïve Bayes
