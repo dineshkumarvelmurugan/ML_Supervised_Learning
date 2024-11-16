@@ -12,7 +12,8 @@ Classification Algorithms :
  * Naïve Bayes 
  * Decision Tree 
  * Random Forest 
- * Support Vector Machine (SVM) 
+ * Support Vector Machine (SVM)
+
 Regression Algorithms :
  * Linear Regression 
  * Multiple Regression 
@@ -20,22 +21,22 @@ Regression Algorithms :
  * Logistic Regression 
 # 🎯 Accuracy Results
 Classifier	Accuracy:
-  * K-Nearest Neighbor 85.87% 
-  * Naïve Bayes	87.32% 
-  * Decision Tree	77.17% 
-  * Random Forest	89.49%  
-  * Support Vector Machine	85.87%
+  * K-Nearest Neighbor      85.87% 
+  * Naïve Bayes	          87.32% 
+  * Decision Tree	          77.17% 
+  * Random Forest	          89.49%  
+  * Support Vector Machine	 85.87%
 # 📁 Project Workflow
-Data Preprocessing:
+* Data Preprocessing:
   Cleaning, handling missing values, and normalizing the data.
-Exploratory Data Analysis (EDA):
+* Exploratory Data Analysis (EDA):
   Visualized data to understand feature relationships.
-Feature Selection:
+* Feature Selection:
   Selected relevant features for building predictive models.
-Model Training and Evaluation:
+* Model Training and Evaluation:
   Applied classification and regression algorithms.
   Evaluated models using accuracy and confusion matrices.
-Model Comparison:
+* Model Comparison:
   Compared the performance of all algorithms to identify the best one.
 # 🔑 Key Findings
   * Random Forest achieved the highest accuracy (89.49%) among classifiers.
